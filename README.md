@@ -24,8 +24,8 @@ and all required dependencies for firebase, etc.
 # Screenshots
 
 ## Screenshots of the webpage.
-![Screenshot (84)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/login.png)
-![Screenshot (85)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/home%20page.png)
-![Screenshot (86)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/chatbot.png)
-![Screenshot (87)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/chatbot(test).png)
-![Screenshot (88)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/bmi.png)
+![login](https://github.com/Prajwal-KS/Fitness-hub/assets/135096407/772ce948-3e9b-465f-9b7e-5b453d1b924f)
+![home page](https://github.com/Prajwal-KS/Fitness-hub/assets/135096407/307c9f22-0780-4544-8e67-90a6fe89ca8b)
+![chatbot](https://github.com/Prajwal-KS/Fitness-hub/assets/135096407/6317ab25-8551-41d0-b2ef-f9ef5c1a737b)
+![chatbot(test)](https://github.com/Prajwal-KS/Fitness-hub/assets/135096407/1412b65a-855c-414a-9980-f725efb0e45d)
+![bmi](https://github.com/Prajwal-KS/Fitness-hub/assets/135096407/2fc381cb-6717-44c9-bdad-2f77945df468)
