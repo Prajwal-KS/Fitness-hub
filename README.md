@@ -24,5 +24,8 @@ and all required dependencies for firebase, etc.
 # Screenshots
 
 ## Screenshots of the webpage.
-
-
+![Screenshot (84)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/login.png)
+![Screenshot (85)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/home%20page.png)
+![Screenshot (86)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/chatbot.png)
+![Screenshot (87)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/chatbot(test).png)
+![Screenshot (88)](https://github.com/Prajwal-KS/Fitness-hub/blob/main/screenshot/bmi.png)
