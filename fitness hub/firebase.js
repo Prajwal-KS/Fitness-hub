@@ -1,11 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCJr-xKLMH7PNeeATdX68Y_R2maGj0CRb4",
-    authDomain: "fitbot-a8330.firebaseapp.com",
-    projectId: "fitbot-a8330",
-    storageBucket: "fitbot-a8330.appspot.com",
-    messagingSenderId: "1037212745285",
-    appId: "1:1037212745285:web:d477207a58a1176421ad2c",
-    measurementId: "G-8BR44QF7PS"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID"
 };
 
 firebase.initializeApp(firebaseConfig);
